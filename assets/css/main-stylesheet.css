@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.container {
+  margin-bottom: 100px;
+}
+
+.orang-bg {
+  background-color: #fceae8;
+}
+
+.carousel-item {
+  padding: 20px 40px;
+}
+
+.slider-content-price {
+  color: #FF136F;
+}
+
+.buy-now-btn {
+  background-image: linear-gradient(to bottom, #FF589B, #FF126F);
+  color: #ffff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+
+/* Categories  */
+
+.categories h1 {
+  color: #ffff;
+}
+
+.categories img {
+  width: 100px;
+}
+
+.cat-1,
+.cat-2,
+.cat-3 {
+  padding: 10px 30px;
+  border-radius: 10px;
+
+}
+
+.cat-1 {
+  /* background-image: linear-gradient(to right, #ff4500eb, orange); */
+  background-color: #ff4500eb;
+}
+
+.cat-2 {
+  /* background-image: linear-gradient(to right, orchid, orange); */
+  background-color: rgb(255, 33, 118);
+}
+
+.cat-3 {
+  /* background-image: linear-gradient(to right, #ff4500eb, orange); */
+  background-color: rgb(48, 48, 255);
+}
+
+/* shoes */
+
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+
+/* Bag  */
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
+
+/* contact us  */
+
+.contact-us {
+  text-transform: capitalize;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.contact-us h3 {
+  text-transform: uppercase;
+}
+
+.contact-us h6 {
+  color: gray;
+}
+
+/* Footer  */
+footer {
+  text-align: center;
+}
